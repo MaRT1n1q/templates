@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CMapData>
+  <name>Custom_Milo_name</name>
+  <parent/>
+  <flags value="0"/>
+  <contentFlags value="73"/>
+  <streamingExtentsMin x="-493.20170000" y="-1825.10100000" z="-550.64010000"/>
+  <streamingExtentsMax x="1260.18700000" y="-131.25700000" z="610.71250000"/>
+  <entitiesExtentsMin x="16.41754000" y="-1315.48200000" z="-50.64007000"/>
+  <entitiesExtentsMax x="750.56810000" y="-640.87630000" z="110.71240000"/>
+  <entities>
+    <Item type="CMloInstanceDef">
+      <archetypeName>Custom_Collision_File_Name</archetypeName>
+      <flags value="1572864"/>
+      <guid value="0"/>
+      <position x="0" y="0" z="0"/>
+      <rotation x="0.00000000" y="0.00000000" z="0.99995290" w="-0.00971387"/>
+      <scaleXY value="1.00000000"/>
+      <scaleZ value="1.00000000"/>
+      <parentIndex value="-1"/>
+      <lodDist value="100.00000000"/>
+      <childLodDist value="0.00000000"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <extensions/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+      <tintValue value="0"/>
+      <groupId value="0"/>
+      <floorId value="0"/>
+      <defaultEntitySets/>
+      <numExitPortals value="1"/>
+      <MLOInstflags value="0"/>
+    </Item>
+  </entities>
+  <containerLods/>
+  <boxOccluders/>
+  <occludeModels/>
+  <physicsDictionaries>
+    <Item>Custom_Collision_File_Name</Item>
+  </physicsDictionaries>
+  <instancedData>
+    <ImapLink/>
+    <PropInstanceList/>
+    <GrassInstanceList/>
+  </instancedData>
+  <timeCycleModifiers/>
+  <carGenerators/>
+  <LODLightsSOA>
+    <direction/>
+    <falloff/>
+    <falloffExponent/>
+    <timeAndStateFlags/>
+    <hash/>
+    <coneInnerAngle/>
+    <coneOuterAngleOrCapExt/>
+    <coronaIntensity/>
+  </LODLightsSOA>
+  <DistantLODLightsSOA>
+    <position/>
+    <RGBI/>
+    <numStreetLights value="0"/>
+    <category value="0"/>
+  </DistantLODLightsSOA>
+  <block>
+    <version value="0"/>
+    <flags value="0"/>
+    <name>Custom_Ymap_File_Name</name>
+    <exportedBy/>
+    <owner>MaRT1n1</owner>
+    <time/>
+  </block>
+</CMapData>
