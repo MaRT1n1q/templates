@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CPackFileMetaData>
+  <MapDataGroups/>
+  <HDTxdBindingArray/>
+  <imapDependencies/>
+  <imapDependencies_2>
+    <Item>
+      <imapName>Custom_Ymap_File_Name</imapName>
+      <manifestFlags>INTERIOR_DATA</manifestFlags>
+      <itypDepArray>
+        <Item>Custom_YTYP_File_Name</Item>
+      </itypDepArray>
+    </Item>
+  </imapDependencies_2>
+  <itypDependencies_2>
+    <Item>
+      <itypName>Custom_YTYP_File_Name</itypName>
+      <manifestFlags>INTERIOR_DATA</manifestFlags>
+      <itypDepArray/>
+    </Item>
+  </itypDependencies_2>
+  <Interiors>
+    <Item>
+      <Name>Custom_Collision_File_Name</Name>
+      <Bounds>
+        <Item>Custom_Collision_File_Name</Item>
+      </Bounds>
+    </Item>
+  </Interiors>
+</CPackFileMetaData>
